@@ -1,8 +1,7 @@
 # PyQT Gui to transfers Chrome Bookmarks selective to Firefox
 
-Python‑Script, das:
-Eine PyQt6‑Oberfläche bereitstellt, mit der du eine Chrome‑Bookmarks‑Datei (im JSON‑Format) laden kannst.
-Die Lesezeichen inklusive Ordnerstruktur in einem Tree-Widget anzeigt, wobei jeder Eintrag (Ordner oder einzelnes Lesezeichen) über ein Kontrollkästchen verfügt.
+Python‑Script mit einer PyQt6‑Oberfläche, mit der du eine Chrome‑Bookmarks‑Datei (im JSON‑Format) laden kannst.
+Die Lesezeichen inklusive Ordnerstruktur werden in einem Tree-Widget anzeigt, wobei jeder Eintrag (Ordner oder einzelnes Lesezeichen) über ein Kontrollkästchen verfügt.
 Die ausgewählten Einträge (mit deren Ordnerstruktur) in das Netscape‑Bookmark‑HTML‑Format (welches Firefox importieren kann) exportiert.
 
 ### Hinweise
