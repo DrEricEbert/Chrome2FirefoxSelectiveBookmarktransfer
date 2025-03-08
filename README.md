@@ -1,4 +1,4 @@
-# PyQT Gui to transfers Chromes Bookmarks selective to  Firefox
+# PyQT Gui to transfers Chrome Bookmarks selective to Firefox
 
 Python‑Script, das:
 Eine PyQt6‑Oberfläche bereitstellt, mit der du eine Chrome‑Bookmarks‑Datei (im JSON‑Format) laden kannst.
